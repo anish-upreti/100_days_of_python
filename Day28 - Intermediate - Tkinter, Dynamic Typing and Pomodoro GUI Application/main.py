@@ -24,7 +24,7 @@ def reset_timer():
     REPS = 0
 
 
-# ---------------------------- TIMER MECHANISM ------------------------------- # 
+# --------------------------- TIMER MECHANISM ------------------------------- # 
 def start():
     global REPS
     REPS += 1
