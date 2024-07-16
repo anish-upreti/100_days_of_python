@@ -1,0 +1,4 @@
+ENV_NIX_APP_ID=2931e1ba
+ENV_NIX_API_KEY=c84ef5a0a8f32302f1571c7dbdca2b9a
+ENV_SHEETY_ENDPOINT=https://api.sheety.co/0ac83938c3b5ceb33bfd9ef3bc57b612/copyOfMyWorkouts/workouts
+ENV_SHEETY_TOKEN=adjflasd456@#$12uio
